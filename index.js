@@ -1,4 +1,4 @@
-import './habmurger.css';
+import './hamburger.css';
 
 export default function Hamburger (props){
 
